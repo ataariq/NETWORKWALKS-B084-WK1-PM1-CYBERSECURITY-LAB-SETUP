@@ -49,6 +49,8 @@ The virtual machine was configured to run Debian-based Kali Linux using VirtualB
 
 I also adjusted the display settings and enabled automatic guest display resizing so that Kali Linux could properly use my MacBook's screen.
 
+![Kali Linux Screenshot](Lab-1/NWW1SS2.png)
+
 ## 3. Configuring the NAT Network
 
 The next objective was to configure a virtual network using the subnet `10.0.0.0/24`.
