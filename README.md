@@ -229,6 +229,9 @@ Both tests were successful.
 These results confirmed that Kali Linux could communicate with external IP addresses and successfully resolve domain names.
 
 **Result:** Internet connectivity was successfully established using VirtualBox's standard NAT mode.
+![Screenshot 3](NWW1SS2.png)
+
+![Screenshot 4](NWW1SS4.png)
 
 ## 6. Updating Kali Linux
 
