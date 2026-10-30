@@ -80,6 +80,8 @@ The next objective was to configure a virtual network using the subnet `10.0.0.0
 
 The objective of this configuration was to allow the Kali Linux virtual machine to communicate through a virtual network while using the host computer's internet connection.
 
+![Screenshot 1](NWW1SS1.png)
+
 ### Verifying the Network Interface
 
 Inside Kali Linux, I opened Terminal and executed:
